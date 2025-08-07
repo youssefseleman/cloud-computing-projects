@@ -1,4 +1,4 @@
-SecureS3 with KMS 
+# SecureS3 with KMS 
 
 This project provides step-by-step instructions for securely storing data in an Amazon S3 bucket using AWS Key Management Service (KMS) for encryption. All actions are performed via the *AWS Management Console*.
 
@@ -51,3 +51,6 @@ Create a secure S3 bucket that uses server-side encryption with a KMS key (SSE-K
    - *Encryption* is set to *AWS-KMS*
    - *AWS KMS key* is your customer-managed key
 4. Click *Upload*.
+
+---
+
